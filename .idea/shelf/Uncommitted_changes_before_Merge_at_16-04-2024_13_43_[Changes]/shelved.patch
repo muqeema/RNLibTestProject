@@ -1,0 +1,171 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><project version=\"4\">\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_1_8\" default=\"true\" project-jdk-name=\"1.8\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+--- a/.idea/misc.xml	(revision 20f861bf975b0ccee56883a22ae6b2f97c1fdf46)
++++ b/.idea/misc.xml	(date 1713255195923)
+@@ -2,4 +2,4 @@
+   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+-</project>
+\ No newline at end of file
++</proj
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"NONE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"22fc3090-9bc9-4d3b-bd38-5de3499b2bd3\" name=\"Changes\" comment=\"\">\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/package-lock.json\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/package-lock.json\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/yarn.lock\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/yarn.lock\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"ClangdSettings\">\r\n    <option name=\"formatViaClangd\" value=\"false\" />\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2dMST5sKOGDG7hnV0am6aHwjkTr\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,\r\n    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,\r\n    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,\r\n    &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,\r\n    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,\r\n    &quot;last_opened_file_path&quot;: &quot;C:/Users/Abhishek Srivastava/Project/reactnative/RNSampleApp/android&quot;,\r\n    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,\r\n    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;\r\n  }\r\n}</component>\r\n  <component name=\"RecentsManager\">\r\n    <key name=\"MoveFile.RECENT_KEYS\">\r\n      <recent name=\"$PROJECT_DIR$/src/assets\" />\r\n      <recent name=\"$PROJECT_DIR$/screens\" />\r\n    </key>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"22fc3090-9bc9-4d3b-bd38-5de3499b2bd3\" name=\"Changes\" comment=\"\" />\r\n      <created>1709816459399</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1709816459399</updated>\r\n    </task>\r\n    <servers />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State />\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 20f861bf975b0ccee56883a22ae6b2f97c1fdf46)
++++ b/.idea/workspace.xml	(date 1713255196047)
+@@ -5,9 +5,14 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="22fc3090-9bc9-4d3b-bd38-5de3499b2bd3" name="Changes" comment="">
++      <change afterPath="$PROJECT_DIR$/src/utils/builders/PatientBuilder.js" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++<<<<<<< HEAD
+       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
++=======
++      <change beforePath="$PROJECT_DIR$/screens/PatientDataScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/PatientDataScreen.js" afterDir="false" />
++>>>>>>> main
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -40,13 +45,19 @@
+     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+     &quot;com.google.services.firebase.aqiPopupShown&quot;: &quot;true&quot;,
+     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
++<<<<<<< HEAD
+     &quot;last_opened_file_path&quot;: &quot;C:/Users/Abhishek Srivastava/Project/reactnative/RNSampleApp/android&quot;,
+     &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
++=======
++    &quot;last_opened_file_path&quot;: &quot;/Users/muqeem.ahmad/Documents/Projects/ReactProjects/RNSampleApp&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;,
++>>>>>>> main
+     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+   }
+ }</component>
+   <component name="RecentsManager">
+     <key name="MoveFile.RECENT_KEYS">
++      <recent name="$PROJECT_DIR$/src/services" />
+       <recent name="$PROJECT_DIR$/src/assets" />
+       <recent name="$PROJECT_DIR$/screens" />
+     </key>
+Index: screens/PatientDataScreen.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import React, { useEffect, useCallback, useState } from 'react';\r\nimport { ScrollView, Text, Button, View, TextInput, StyleSheet, Input, Alert } from 'react-native';\r\nimport { useNavigation } from '@react-navigation/native';\r\nimport { useForm, Controller } from 'react-hook-form';\r\n\r\nconst PatientDataScreen = () => {\r\n    const navigation = useNavigation();\r\n\r\n    const initialState = [\r\n        { name: \"age\", placeholder: \"Age\", value: '25',id: 1 },\r\n        { name: \"gender\", placeholder: \"Gender\", value: 'Male', id: 2 },\r\n        { name: \"prescription\", placeholder: \"Prescription\", value: JSON.stringify([\"0002-1433\",\"0002-1200\",\"0002-0800\",\"0002-1434\"]), id: 3 },\r\n        { name: \"labTest\", placeholder: \"Lab Test\", value: JSON.stringify([\"A0021\",\"A0200\",\"A0210\",\"A0225\"]),id: 4 },\r\n        { name: \"diagnosis\", placeholder: \"Diagnosis\", value: JSON.stringify([\"A00\",\"A0109\",\"A011\",\"A012\"]), id: 5 },\r\n        { name: \"pharmacy\", placeholder: \"Pharmacy\", value: JSON.stringify([\"P01\",\"P02\",\"P03\",\"P04\"]), id: 6 },\r\n        { name: \"prescriptionHistory\", placeholder: \"Prescription History\", value: JSON.stringify([{\"dt\": \"2023-01-10\", \"v\":[\"0002-1433\", \"0002-1200\"]},{\"dt\": \"2023-03-15\", \"v\": [\"0002-0800\",\"0002-1434\"]}]), id: 7 },\r\n        { name: \"labTestHistory\", placeholder: \"Lab Test History\", value: JSON.stringify([{\"dt\": \"2023-01-10\", \"v\":[\"A0021\", \"A0200\"]},{\"dt\": \"2023-03-15\", \"v\": [\"A0210\",\"A0220\"]}]), id: 8 },\r\n        { name: \"diagnosisHistory\", placeholder: \"Diagnosis History\", value: JSON.stringify([{\"dt\": \"2023-01-10\", \"v\":[\"A00\", \"A0109\"]},{\"dt\": \"2023-03-15\", \"v\": [\"A011\",\"A012\"]}]), id: 9 },\r\n        { name: \"pharmacyHistory\", placeholder: \"Pharmacy History\", value: JSON.stringify([{\"dt\": \"2023-01-10\", \"v\":[\"P01\",\"P02\"]},{\"dt\": \"2023-03-15\", \"v\": [\"P03\",\"P04\"]}]), id: 10 },\r\n        { name: \"temperature\", placeholder: \"Temperature\", value: JSON.stringify({\"v\":\"88.56\",\"u\":\"Fahrenheit/Celsius\"}), id: 11 },\r\n        { name: \"bp\", placeholder: \"bp\", value: '120/80', id: 12 },\r\n        { name: \"pulse\", placeholder: \"pulse\", value: '68', id: 13 },\r\n        { name: \"respiration\", placeholder: \"respiration\", value: '67', id: 14 },\r\n        { name: \"insurance\", placeholder: \"insurance\", value: JSON.stringify([\"1\",\"2\"]), id: 15 },\r\n        { name: \"insuranceName\", placeholder: \"Insurance Name\", value: JSON.stringify([\"medicaid\", \"hmo\"]), id: 16 },\r\n    ];\r\n\r\n    const [data, setData] = useState(initialState);\r\n    updatedState = data\r\n\r\n    const { register, handleSubmit, setValue } = useForm();\r\n    const [isRegistered, setIsRegistered] = useState(false);\r\n\r\n    const onSubmit = (data) => {\r\n        console.log(data);\r\n        createTwoButtonAlert()\r\n//        setIsRegistered(true);\r\n        // Here you can perform further actions with the form data, like sending it to a server\r\n    };\r\n\r\n    const onChangeField = useCallback((name) => (text) => {\r\n        setValue(name, text);\r\n        if (updatedState.length == 0) {\r\n            updatedState = data\r\n        }\r\n        const newState = updatedState.map(obj => {\r\n              // \uD83D\uDC47\uFE0F if id equals 2, update country property\r\n              if (obj.name == name) {\r\n\r\n              console.log(\"obj.name, name\", name, text);\r\n                return {...obj, value: text};\r\n              }\r\n\r\n              // \uD83D\uDC47\uFE0F otherwise return the object as is\r\n              return obj;\r\n            });\r\n\r\n            setData(newState);\r\n      }, []);\r\n\r\n//    useEffect(() => {\r\n//        data.map((item, index) => (\r\n//            register(item.name)\r\n//        ))}, [register]);\r\n\r\n    const createTwoButtonAlert = () =>\r\n        Alert.alert('Patient Data', 'Patient data saved successfully.', [\r\n            {text: 'OK', onPress: () => {\r\n                console.log('OK Pressed')\r\n                navigation.navigate('Home')\r\n       }},\r\n    ]);\r\n\r\n    return (\r\n        <View style={styles.container}>\r\n            <ScrollView style={styles.summary}>\r\n                {\r\n                    updatedState.map((item, index) => (\r\n                        <View key={item.id}>\r\n                            <View style={styles.summary}>\r\n                                <Text style={styles.text}>{item.placeholder}</Text>\r\n                                <View style={styles.input}>\r\n                                    <TextInput\r\n                                        value={item.value}\r\n//                                        style={styles.input}\r\n                                        autoCompleteType={item.name}\r\n                                        placeholder={item.placeholder}\r\n                                        onChangeText={onChangeField(item.name)}\r\n                                    />\r\n                                </View>\r\n                          </View>\r\n                        </View>\r\n                      )\r\n                    )\r\n                }\r\n\r\n            </ScrollView>\r\n\r\n            <View style={styles.loginButtonSection}>\r\n                <Button title=\"Submit\" onPress={handleSubmit(onSubmit)} style={styles.submitButton} />\r\n                {isRegistered && <Text style={styles.successText}>Registration successful!</Text>}\r\n            </View>\r\n        </View>\r\n      );\r\n}\r\n\r\nconst styles = StyleSheet.create({\r\n  container: {\r\n    flex: 1,\r\n    justifyContent: 'center',\r\n    alignItems: 'center',\r\n    padding: 20,\r\n  },\r\n   item: {\r\n      flexDirection: 'row',\r\n      justifyContent: 'space-between',\r\n      width: '100%', // Shortened width\r\n   },\r\n\r\n    text: {\r\n      padding: 5,\r\n      width: '90%', // Shortened width\r\n    },\r\n  input: {\r\n    borderWidth: 1,\r\n    borderColor: '#ccc',\r\n    padding: 10,\r\n    marginBottom: 10, // Increased margin between boxes\r\n    width: '100%', // Shortened width\r\n  },\r\n  submitButton: {\r\n      width: '100%',\r\n      height: '30%',\r\n      justifyContent: 'center',\r\n      alignItems: 'center'\r\n  },\r\n  successText: {\r\n    color: 'green',\r\n    marginTop: 10,\r\n    fontSize: 17,\r\n  },\r\n});\r\n\r\nexport default PatientDataScreen;
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/screens/PatientDataScreen.js b/screens/PatientDataScreen.js
+--- a/screens/PatientDataScreen.js	(revision 20f861bf975b0ccee56883a22ae6b2f97c1fdf46)
++++ b/screens/PatientDataScreen.js	(date 1713255196058)
+@@ -2,6 +2,7 @@
+ import { ScrollView, Text, Button, View, TextInput, StyleSheet, Input, Alert } from 'react-native';
+ import { useNavigation } from '@react-navigation/native';
+ import { useForm, Controller } from 'react-hook-form';
++import PatientBuilder from '../src/utils/builders/PatientBuilder.js'
+ 
+ const PatientDataScreen = () => {
+     const navigation = useNavigation();
+@@ -31,11 +32,60 @@
+     const { register, handleSubmit, setValue } = useForm();
+     const [isRegistered, setIsRegistered] = useState(false);
+ 
+-    const onSubmit = (data) => {
+-        console.log(data);
++    const onSubmit = () => {
++//        console.log(data);
+         createTwoButtonAlert()
+ //        setIsRegistered(true);
+         // Here you can perform further actions with the form data, like sending it to a server
++        // Use the PatientBuilder to create a patient object
++        const patientBuilder = new PatientBuilder();
++        for (const item of updatedState) {
++            if (item.name == "age") {
++                patientBuilder.setAge(item.value)
++            } else if (item.name == "gender") {
++                patientBuilder.setGender(item.value)
++            } else if (item.name == "prescription") {
++                patientBuilder.setPrescription(item.value)
++            } else if (item.name == "labTest") {
++                patientBuilder.setLabTest(item.value)
++            } else if (item.name == "diagnosis") {
++                patientBuilder.setDiagnosis(item.value)
++            } else if (item.name == "pharmacy") {
++                patientBuilder.setPharmacy(item.value)
++            } else if (item.name == "prescriptionHistory") {
++                patientBuilder.setPrescriptionHistory(item.value)
++            } else if (item.name == "labTestHistory") {
++                patientBuilder.setLabTestHistory(item.value)
++            } else if (item.name == "diagnosisHistory") {
++                patientBuilder.setDiagnosisHistory(item.value)
++            } else if (item.name == "pharmacyHistory") {
++                patientBuilder.setPharmacyHistory(item.value)
++            } else if (item.name == "temperature") {
++                patientBuilder.setTemperature(item.value)
++            } else if (item.name == "bp") {
++                patientBuilder.setBp(item.value)
++            } else if (item.name == "pulse") {
++                patientBuilder.setPulse(item.value)
++            } else if (item.name == "respiration") {
++                patientBuilder.setRespiration(item.value)
++            } else if (item.name == "insurance") {
++                patientBuilder.setInsurance(item.value)
++            } else if (item.name == "insuranceName") {
++                patientBuilder.setInsuranceName(item.value)
++            }
++        }
++        patientBuilder.build()
++        console.log("patient age", patientBuilder.patient.age)
++        console.log("patient gender", patientBuilder.patient.gender)
++        console.log("patient prescription", patientBuilder.patient.prescription)
++        console.log("patient labTest", patientBuilder.patient.labTest)
++        console.log("patient diagnosis", patientBuilder.patient.diagnosis)
++        console.log("patient pharmacy", patientBuilder.patient.pharmacy)
++        console.log("patient prescriptionHistory", patientBuilder.patient.prescriptionHistory)
++        console.log("patient labTestHistory", patientBuilder.patient.labTestHistory)
++        console.log("patient diagnosisHistory", patientBuilder.patient.diagnosisHistory)
++        console.log("patient pharmacyHistory", patientBuilder.patient.pharmacyHistory)
++
+     };
+ 
+     const onChangeField = useCallback((name) => (text) => {
+@@ -44,18 +94,15 @@
+             updatedState = data
+         }
+         const newState = updatedState.map(obj => {
+-              // 👇️ if id equals 2, update country property
+-              if (obj.name == name) {
+-
+-              console.log("obj.name, name", name, text);
++            // 👇️ if name equals, update data
++             if (obj.name == name) {
++//                console.log("obj.name, name", name, text);
+                 return {...obj, value: text};
+-              }
+-
+-              // 👇️ otherwise return the object as is
+-              return obj;
+-            });
+-
+-            setData(newState);
++             }
++             // 👇️ otherwise return the object as is
++             return obj;
++        });
++        setData(newState);
+       }, []);
+ 
+ //    useEffect(() => {
